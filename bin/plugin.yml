@@ -1,0 +1,8 @@
+name: InvisibleArmor
+version: 1.0
+main: com.lerdorf.invisiblearmor.InvisibleArmor
+api-version: 1.0
+permissions:
+  invisiblearmor.use:
+    description: Allows players to hide their armor when they are invisible
+    default: true
